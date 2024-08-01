@@ -3,6 +3,8 @@
 <h4>Sreenshots</h4>
 
 <img src='src/assets/Screenshot (223).png'>
+<img src='src/assets/Screenshot (224).png'>
+<img src='src/assets/Screenshot (225).png'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
