@@ -1,5 +1,8 @@
 <h1>Food Delivery Website</h1>
-
+ ∗ Developed a full-fledged food delivery application leveraging the MERN (MongoDB, Express.js, React.js, Node.js)
+ stack to facilitate seamless ordering for users.
+ ∗ Key features included user authentication, and interactive restaurant menus.
+ ∗ Technology Used: MongoDb, Express JS, React JS ans Node JS.
 <h4>Sreenshots</h4>
 <div>
 <img src='src/assets/Screenshot (223).png' width='250'>
