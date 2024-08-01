@@ -1,10 +1,11 @@
 <h1>Food Delivery Website</h1>
 
 <h4>Sreenshots</h4>
-
-<img src='src/assets/Screenshot (223).png'>
+<div>
+<img src='src/assets/Screenshot (223).png' width='100'>
 <img src='src/assets/Screenshot (224).png'>
 <img src='src/assets/Screenshot (225).png'>
+</div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
