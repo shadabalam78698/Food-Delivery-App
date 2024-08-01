@@ -4,7 +4,7 @@
 <div>
 <img src='src/assets/Screenshot (223).png' width='250'>
 <img src='src/assets/Screenshot (224).png' width='250'>
-<img src='src/assets/Screenshot (225).png' width='250>
+<img src='src/assets/Screenshot (225).png' width='250'>
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
